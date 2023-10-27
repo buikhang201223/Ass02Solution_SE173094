@@ -1,0 +1,15 @@
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csprojAssemblyReference.cache
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\FPTU\2021 S2 Summer\PRN211\Ass02Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache

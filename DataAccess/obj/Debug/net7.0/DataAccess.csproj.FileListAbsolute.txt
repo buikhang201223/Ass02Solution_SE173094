@@ -1,0 +1,17 @@
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\huvo2\Downloads\Summer2021_PRN211_AssSolution-main\Ass02Solution_DBFirst\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
